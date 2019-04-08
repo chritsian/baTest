@@ -1,4 +1,2 @@
-Hier sind die selbst programmierten Apps zum Testen der Plug-ins zu finden sowie die verwendete JSON Datei.
+Dieses Repository beinhaltet die selbst programmierten Apps zum Testen der Plug-ins und die zum Testen verwendete JSON Datei.
 
-- AudioTest App
-- Runtime Exception App
