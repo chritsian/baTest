@@ -10,7 +10,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 
-import com.example.runtimeexceptionapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 
