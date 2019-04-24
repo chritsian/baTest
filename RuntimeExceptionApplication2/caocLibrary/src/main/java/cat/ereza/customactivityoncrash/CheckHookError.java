@@ -33,7 +33,6 @@ public final class CheckHookError {
     private StateMachine stateMachine;
 
     public CheckHookError() {
-        Log.d("XYZ", "con ");
         stateMachine = new StateMachine();
     }
 
@@ -55,9 +54,7 @@ public final class CheckHookError {
     private boolean checkMicro(String stackTraceString) {
         for (String name : nameOfHookMethodsAudio) {
             if (stackTraceString.contains(name)) {
-                Log.d("XYZ","called");
                 stateMachine.nextMicrophoneState();
-                Log.d("XYZ","called");
                 return true;
             }
         }
