@@ -1,10 +1,9 @@
 StateMachineNextTest
 ------
 
-Es wurde getestet, ob die next Methoden der Klasse StateMachine funktionieren. Des Weitern wurde die Einbindung als Modul getestet, sowie der ConfigParser.
-Zum Testen wurde die JSON Datei exampleSettingsStateNext.json verwendet.
+Mit dieser App kann getestet werdeb, ob die next Methoden der Klasse StateMachine funktionieren. Des Weitern wird die Einbindung des StateMachine Modul getestet sowie der ConfigParser.
 
-Nach Klicken des in der TestApp angezeigten Buttons wurde folgende Ausgabe gelogged:
+Zum Testen wurde die JSON Datei exampleSettingsStateNext.json verwendet. Nach Klicken des in der TestApp angezeigten Buttons wurde folgende Ausgabe gelogged:
 
 ![alt text](https://github.com/chritsian/baTest/blob/master/StateMachineNextTest/screen.PNG)
 
