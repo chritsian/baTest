@@ -1,0 +1,1059 @@
+{
+  "profile": "",
+  "time": "1970-01-01T01-00-00-000",
+  "apps": [
+    {
+      "_id": "cat.ereza.customactivityoncrash",
+      "category_id": "6de45c16-191a-40c5-a6e3-4cc048c1a649",
+      "settings": {
+        "location": {
+          "status": "inherit",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "inherit",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "inherit"
+        },
+        "camera": {
+           "status": "blocked",
+           "blockSettings": { 
+               "blockStatus": "hard"
+           }
+        },
+        "mic": {
+           "status": "blocked", 
+           "blockSettings": {
+               "blockStatus": "hard" 
+           }
+        },
+        "environment": {
+          "status": "inherit"
+        },
+        "movement": {
+          "status": "inherit"
+        },
+        "bluetooth": {
+          "status": "inherit"
+        },
+        "nfc": {
+          "status": "inherit"
+        },
+        "calls": {
+          "status": "inherit"
+        },
+        "sms": {
+          "status": "inherit"
+        },
+        "calendar": {
+          "status": "inherit",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "inherit"
+        },
+        "storage": {
+          "status": "inherit"
+        },
+        "identity": {
+          "status": "inherit"
+        },
+        "smsHistory": {
+          "status": "inherit"
+        },
+        "mmsHistory": {
+          "status": "inherit"
+        },
+        "callsHistory": {
+          "status": "inherit"
+        }
+      }
+    },
+    {
+      "_id": "com.example.audiotestapp",
+      "category_id": "6de45c16-191a-40c5-a6e3-4cc048c1a649",
+      "settings": {
+        "location": {
+          "status": "inherit",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "enabled",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "inherit"
+        },
+       "camera": {
+                    "status": "blocked",
+                    "blockSettings": { 
+                       "blockStatus": "softBlackPicture"
+                    }
+                },
+                "mic": {
+                    "status": "blocked", 
+                    "blockSettings": {
+                       "blockStatus": "softEmptyNoise" 
+                    }
+                },
+        "environment": {
+          "status": "inherit"
+        },
+        "movement": {
+          "status": "inherit"
+        },
+        "bluetooth": {
+          "status": "inherit"
+        },
+        "nfc": {
+          "status": "inherit"
+        },
+        "calls": {
+          "status": "inherit"
+        },
+        "sms": {
+          "status": "inherit"
+        },
+        "calendar": {
+          "status": "inherit",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "inherit"
+        },
+        "storage": {
+          "status": "inherit"
+        },
+        "identity": {
+          "status": "inherit"
+        },
+        "smsHistory": {
+          "status": "inherit"
+        },
+        "mmsHistory": {
+          "status": "inherit"
+        },
+        "callsHistory": {
+          "status": "inherit"
+        }
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Soziale Netzwerke & Kommunikation",
+      "settings": {
+        "location": {
+          "status": "blocked",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "filtered",
+          "filterSettings": {
+            "horizontal": [
+              "498"
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "enabled"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "enabled"
+        },
+        "storage": {
+          "status": "enabled"
+        },
+        "identity": {
+          "status": "blocked"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "6de45c16-191a-40c5-a6e3-4cc048c1a649",
+      "count": 2
+    },
+    {
+      "name": "Produktivität",
+      "settings": {
+        "location": {
+          "status": "blocked",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "filtered"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "enabled",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "enabled"
+        },
+        "identity": {
+          "status": "blocked"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "ea0b6f71-9d3f-402d-8b3b-b38ec9d71419",
+      "count": 0
+    },
+    {
+      "name": "Reise",
+      "settings": {
+        "location": {
+          "status": "enabled",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "filtered",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "blocked"
+        },
+        "identity": {
+          "status": "blocked"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "f339a7ce-7929-49ff-8483-78ee87f63b37",
+      "count": 0
+    },
+    {
+      "name": "Navigation",
+      "settings": {
+        "location": {
+          "status": "enabled",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "filtered",
+          "filterSettings": {
+            "horizontal": [
+              "413",
+              "387"
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "enabled"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "blocked"
+        },
+        "identity": {
+          "status": "enabled"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "d1353ae1-a115-4f01-874b-4de31c79c1fc",
+      "count": 0
+    },
+    {
+      "name": "Streaming & Bücher",
+      "settings": {
+        "location": {
+          "status": "blocked",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "enabled"
+        },
+        "storage": {
+          "status": "enabled"
+        },
+        "identity": {
+          "status": "enabled"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "ac0bd826-6f41-4fe0-853c-42f68d8e5ae7",
+      "count": 0
+    },
+    {
+      "name": "Foto & Video",
+      "settings": {
+        "location": {
+          "status": "blocked",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "blocked"
+        },
+        "camera": {
+          "status": "enabled"
+        },
+        "mic": {
+          "status": "enabled"
+        },
+        "environment": {
+          "status": "enabled"
+        },
+        "movement": {
+          "status": "enabled"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "enabled"
+        },
+        "identity": {
+          "status": "blocked"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "320efd20-0756-4ec1-af4c-12cbd2a2cc8c",
+      "count": 0
+    },
+    {
+      "name": "Spiele",
+      "settings": {
+        "location": {
+          "status": "blocked",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "blocked"
+        },
+        "identity": {
+          "status": "blocked"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "5e07bc6f-acf1-4344-9fb7-5572909d9eaa",
+      "count": 0
+    },
+    {
+      "name": "Shopping & Finanzen",
+      "settings": {
+        "location": {
+          "status": "blocked",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "enabled"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "blocked"
+        },
+        "identity": {
+          "status": "enabled"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "69732e3b-6277-454c-8bff-639cc44f31c1",
+      "count": 0
+    },
+    {
+      "name": "Wetter",
+      "settings": {
+        "location": {
+          "status": "enabled",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "enabled"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "blocked"
+        },
+        "identity": {
+          "status": "blocked"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "56c45bd2-d699-4919-9a7a-1208fde3e8f0",
+      "count": 0
+    },
+    {
+      "name": "Sport & Gesundheit",
+      "settings": {
+        "location": {
+          "status": "enabled",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "blocked"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "enabled"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "blocked"
+        },
+        "identity": {
+          "status": "enabled"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "d0b0354b-edbb-4d63-a28f-98d11f8e2677",
+      "count": 0
+    },
+    {
+      "name": "Sonstiges",
+      "settings": {
+        "location": {
+          "status": "blocked",
+          "filterSettings": {
+            "distance": 1
+          }
+        },
+        "contacts": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "internet": {
+          "status": "blocked"
+        },
+        "camera": {
+          "status": "blocked"
+        },
+        "mic": {
+          "status": "blocked"
+        },
+        "environment": {
+          "status": "blocked"
+        },
+        "movement": {
+          "status": "blocked"
+        },
+        "bluetooth": {
+          "status": "blocked"
+        },
+        "nfc": {
+          "status": "blocked"
+        },
+        "calls": {
+          "status": "blocked"
+        },
+        "sms": {
+          "status": "blocked"
+        },
+        "calendar": {
+          "status": "blocked",
+          "filterSettings": {
+            "horizontal": [
+              
+            ],
+            "vertical": [
+              
+            ]
+          }
+        },
+        "accounts": {
+          "status": "blocked"
+        },
+        "storage": {
+          "status": "blocked"
+        },
+        "identity": {
+          "status": "blocked"
+        },
+        "smsHistory": {
+          "status": "blocked"
+        },
+        "mmsHistory": {
+          "status": "blocked"
+        },
+        "callsHistory": {
+          "status": "blocked"
+        }
+      },
+      "_id": "ccc189ec-fbf8-400c-ad12-b0504a6892ba",
+      "count": 0
+    }
+  ]
+}
