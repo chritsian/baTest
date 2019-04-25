@@ -1,7 +1,7 @@
 StateMachineNextTest
 ------
 
-Mit dieser App kann getestet werdeb, ob die next Methoden der Klasse StateMachine funktionieren. Des Weitern wird die Einbindung des StateMachine Moduls getestet sowie das ConfigParser Modul.
+Mit dieser App kann getestet werden, ob die next Methoden der Klasse StateMachine funktionieren. Des Weitern wird die Einbindung des StateMachine Moduls getestet sowie das ConfigParser Modul.
 
 Zum Testen wurde die JSON Datei exampleSettingsStateNext.json verwendet. Nach dem Klicken des in der TestApp angezeigten Buttons wurde folgende Ausgabe geloggt:
 
