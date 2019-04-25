@@ -9,4 +9,4 @@ Zum Testen wurde die JSON Datei exampleSettingsStateNext.json verwendet. Nach de
 
 Diese entspricht der erwarteten Ausgabe.
 
-Hinweis: Damit die App korrekt funktioniert, muss der Zugriff auf den Speicher erlaubt sein und die entsprechende JSON Datei auf den Gerätespeicher geladen werden.
+Hinweis: Damit die App korrekt funktioniert, muss der Zugriff auf den Gerätespeicher erlaubt sein und die entsprechende JSON Datei auf den Gerätespeicher geladen werden.
